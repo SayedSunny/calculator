@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.Calculator{
+	text-align: center;
+	margin:0 auto;
+	margin: 10px;
+	padding: 5px;
+	background-color: pink;
+}
+
+#size{
+	margin: 0 auto;
+	height: 100px;
+	width:350px;
+	font-size: 50px;
+	
+	font-weight: 5px;
+	text-align: right;
+	letter-spacing: 3px;
+
+	
+	
+}
+
+.body{
+	margin-top: 5px;
+	padding: 3px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+}
+#id{
+	font-size: 32px;
+}
+.b{
+	width: 85px;
+	height: 40px;
+	border-radius: 10px;
+	background-color: black;
+	color:white;
+}
+.b2{
+	background-color: skyblue;
+}
+
+.b:hover{
+	background-color: pink;
+}
